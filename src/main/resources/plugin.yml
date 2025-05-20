@@ -1,0 +1,10 @@
+name: SmartGravel
+main: com.kittydiaz.smartgravel.SmartGravelPlugin
+version: 1.0.0
+api-version: 1.21
+description: A plugin adding Smart Gravel that auto-fills downward through air and water.
+author: Gothic_Day
+commands:
+  smartgravel:
+    description: Gives you Smart Gravel.
+    usage: /smartgravel
